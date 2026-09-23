@@ -43,7 +43,7 @@ Below is the comparative overview of leading commercial platforms, ranked in des
 
 ## 🛠️ Open-Source Ecosystem & Tools
 
-Below are top open-source projects relevant to alternative investment infrastructure, ranked by **GitHub Stars_Count (Descending)**. Each Stars_Badge links directly to the repository's stargazers page:
+Below are top open-source projects relevant to alternative investment infrastructure, ranked by **GitHub_Stars_Count (Descending)**. Each Stars_Badge links directly to the repository's stargazers page:
 
 | 📦 Project | 🏷️ Category | 🌟 GitHub_Stars_Badge | 📝 Description | 🔗 Repository |
 | :--- | :--- | :--- | :--- | :--- |
