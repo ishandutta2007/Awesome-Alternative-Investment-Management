@@ -43,9 +43,9 @@ Below is the comparative overview of leading commercial platforms, ranked in des
 
 ## 🛠️ Open-Source Ecosystem & Tools
 
-Below are top open-source projects relevant to alternative investment infrastructure, ranked by **GitHub Star Count (Descending)**. Each star badge links directly to the repository's stargazers page:
+Below are top open-source projects relevant to alternative investment infrastructure, ranked by **GitHub Stars_Count (Descending)**. Each Stars_Badge links directly to the repository's stargazers page:
 
-| 📦 Project | 🏷️ Category | 🌟 GitHub Stars Badge | 📝 Description | 🔗 Repository |
+| 📦 Project | 🏷️ Category | 🌟 GitHub_Stars_Badge | 📝 Description | 🔗 Repository |
 | :--- | :--- | :--- | :--- | :--- |
 | **Apache Airflow** 💨 | Data Engineering & ETL | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Programmatically author, schedule and monitor data pipelines. | [GitHub](https://github.com/apache/airflow) |
 | **Pandas** 🐼 | Data Analytics | [![Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) | Flexible data analysis and manipulation library for portfolio computing. | [GitHub](https://github.com/pandas-dev/pandas) |
