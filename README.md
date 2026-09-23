@@ -1,32 +1,91 @@
-# Awesome-Alternative-Investment-Management
+# Awesome Alternative Investment Management 🚀 📊
 
-## Top Alternative Investment Management Ecosystem
+![Awesome Alternative Investment Management Banner](assets/banner.svg)
 
+## 🏆 Top Alternative Investment Management Ecosystem & Software Stack
 
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/Category-Alternative%20Investments-blue?style=flat-square" alt="Category" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS / Hosted Platforms & Open-Source GitHub Projects**
-
-
-
-*Alternative investment management platforms covering private equity, venture capital, private credit, real estate, fund administration, portfolio monitoring, deal management, investor relations, LP portals, fund accounting, valuations, reporting, cap tables, analytics and investment operations.*
-
-
-
-**Last updated: September 2026**
-
-
+> **SEO & Executive Summary:** An enterprise-grade, curated reference guide to **Alternative Investment Management Software**, covering **Private Equity (PE)**, **Venture Capital (VC)**, **Private Credit / Debt**, **Real Estate (REITs)**, **Fund Administration**, **Portfolio Monitoring**, **Deal Flow & Pipeline CRM**, **LP Portals**, **Fund Accounting**, **Waterfall & Carried Interest Modeling**, **Cap Tables**, and **Investment Analytics**.
 
 ---
 
+## 📈 Market Size & Industry Dynamics
 
+> 💡 **Market Size & Structure Note:** The global Alternative Investment Management Software market is estimated at **\$2.7 Billion (2025)** and is projected to expand at a **CAGR of ~12.2%** to reach **\$4.82 Billion by 2030**. The sector is **moderately fragmented**, with specialized enterprise incumbents (BlackRock Aladdin, eFront, Intapp/DealCloud) dominating institutional funds, while agile SaaS solutions (Carta, Juniper Square) and composable open-source frameworks aggressively capture emerging GP/LP workflows.
 
-## Table of Contents
+---
 
+## 💼 SaaS / Commercial Hosted Platforms
 
+Below is the comparative overview of leading commercial platforms, ranked in descending order by **Company Valuation / Revenue Scale**:
+
+| 🏢 Platform | 📌 Primary Focus | 💰 Pricing (Starting Tier) | 🎁 Free Tier / Free Trial Limit | 📊 Company Size (Valuation / Revenue) | 🌐 Website |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **BlackRock Aladdin** 🏛️ | Institutional Portfolio & Risk Management | \$500,000 / year (Enterprise quote) | No free trial / No free tier (Institutional sales demo only) | **\$140B+ Market Cap** (Parent BlackRock BLK; \$24.2B Rev) | [Website](https://www.blackrock.com/aladdin) |
+| **eFront (BlackRock)** 🏢 | Institutional PE, Debt & RE Management | \$100,000 / year (Enterprise quote) | No free trial / No free tier | **\$1.5 Billion** (Acquired for \$1.5B cash/debt) | [Website](https://www.efront.com/) |
+| **DealCloud (Intapp)** 🤝 | Investment Banking & PE CRM Deal Flow | \$30,000 / year (Enterprise seat quote) | No free trial / No free tier | **\$2.8 Billion Market Cap** (Parent Intapp INTA; \$578M Rev) | [Website](https://www.intapp.com/dealcloud/) |
+| **Carta Fund Admin** 📜 | Cap Table, Valuations & VC/PE Fund Admin | \$10,000 / year (Paid fund admin starting tier) | **Carta Launch Free Plan** (Free for startups <25 stakeholders & <\$1M raised) | **\$7.4 Billion Valuation** (\$500M ARR) | [Website](https://carta.com/) |
+| **Allvue Systems** 📈 | Private Equity, Credit & CLO Fund Accounting | \$50,000 / year (Enterprise quote) | No free trial / No free tier | **\$3.0 Billion Valuation** (ARR >\$200M) | [Website](https://www.allvuesystems.com/) |
+| **Juniper Square** 🏛️ | Private Market Fund Operations & LP Portal | \$18,000 / year (Base platform subscription) | No free trial / No free tier | **\$1.1 Billion Valuation** (\$139.8M ARR) | [Website](https://www.junipersquare.com/) |
+| **Dynamo Software** ⚡ | PE/VC Deal Management & Portfolio Monitoring | \$15,000 / year (Enterprise quote) | No free trial / No free tier | **\$900 Million Valuation** | [Website](https://www.dynamosoftware.com/) |
+| **Chronograph** 📊 | Private Capital Portfolio Data & Monitoring | \$25,000 / year (Institutional quote) | No free trial / No free tier | **\$350 Million Valuation** | [Website](https://www.chronograph.pe/) |
+| **Backstop Solutions** 📁 | Institutional CRM & Investment Operations | \$12,000 / year (Quote-based) | No free trial / No free tier | **\$15 Million Revenue** (Subsidiary of ION Group) | [Website](https://www.backstopsolutions.com/) |
+| **Altvia** 🎯 | PE/VC CRM, Investor Relations & Portals | \$10,000 / year (Quote-based) | No free trial / No free tier | **\$10.7 Million Revenue** (Marlin Equity Backed) | [Website](https://www.altvia.com/) |
+| **Fundwave** 🌊 | VC/PE Fund Accounting & Investor Portals | \$400 / month (Investor Portal billed annually) | **Free Trial Available** (Interactive self-service demo & onboarding trial) | **Bootstrapped / Unfunded** | [Website](https://www.fundwave.com/) |
+
+---
+
+## 🛠️ Open-Source Ecosystem & Tools
+
+Below are top open-source projects relevant to alternative investment infrastructure, ranked by **GitHub Star Count (Descending)**. Each star badge links directly to the repository's stargazers page:
+
+| 📦 Project | 🏷️ Category | 🌟 GitHub Stars Badge | 📝 Description | 🔗 Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| **Apache Airflow** 💨 | Data Engineering & ETL | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Programmatically author, schedule and monitor data pipelines. | [GitHub](https://github.com/apache/airflow) |
+| **Pandas** 🐼 | Data Analytics | [![Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) | Flexible data analysis and manipulation library for portfolio computing. | [GitHub](https://github.com/pandas-dev/pandas) |
+| **Superset** 📊 | BI & Dashboards | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Modern enterprise business intelligence and data visualization platform. | [GitHub](https://github.com/apache/superset) |
+| **Odoo** 💼 | ERP & Accounting | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Open-source suite of integrated business apps including accounting and CRM. | [GitHub](https://github.com/odoo/odoo) |
+| **Grafana** 📈 | BI & Analytics | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Operational dashboards, metrics, and visualization engine. | [GitHub](https://github.com/grafana/grafana) |
+| **scikit-learn** 🤖 | Machine Learning | [![Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers) | Machine learning algorithms for predictive investment and risk models. | [GitHub](https://github.com/scikit-learn/scikit-learn) |
+| **Metabase** 🔍 | Business Intelligence | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Easy self-service business intelligence and financial reporting. | [GitHub](https://github.com/metabase/metabase) |
+| **n8n** ⚡ | Workflow Automation | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Workflow automation platform connecting investment tools and APIs. | [GitHub](https://github.com/n8n-io/n8n) |
+| **DuckDB** 🦆 | Analytical Database | [![Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) | High-performance analytical SQL database management system. | [GitHub](https://github.com/duckdb/duckdb) |
+| **Keycloak** 🔑 | Identity & Security | [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Identity and access management for LP portals and internal tools. | [GitHub](https://github.com/keycloak/keycloak) |
+| **Polars** ⚡ | Data Engineering | [![Stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers) | Lightning-fast Rust-based DataFrame library for financial computation. | [GitHub](https://github.com/pola-rs/polars) |
+| **ERPNext** 🏢 | ERP & Accounting | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full-featured ERP with general ledger, multi-currency, and CRM. | [GitHub](https://github.com/frappe/erpnext) |
+| **Twenty** 🤝 | Deal Flow CRM | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Modern open-source CRM alternative to Salesforce/DealCloud. | [GitHub](https://github.com/twentyhq/twenty) |
+| **Airbyte** 🔄 | Data Integration | [![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | Open-source ELT data pipeline replication platform. | [GitHub](https://github.com/airbytehq/airbyte) |
+| **Paperless-ngx** 📄 | Document Management | [![Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers) | Document management system with OCR for investment memos and reports. | [GitHub](https://github.com/paperless-ngx/paperless-ngx) |
+| **MinIO** 🪣 | Data Room Storage | [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) | High-performance S3 compatible object storage for virtual data rooms. | [GitHub](https://github.com/minio/minio) |
+| **Nextcloud** ☁️ | Data Room Sharing | [![Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | Self-hosted productivity and secure file sharing for diligence. | [GitHub](https://github.com/nextcloud/server) |
+| **PyPortfolioOpt** 🎯 | Portfolio Optimization | [![Stars](https://img.shields.io/github/stars/robertmartin8/PyPortfolioOpt?style=social&color=white)](https://github.com/robertmartin8/PyPortfolioOpt/stargazers) | Financial portfolio optimization (Efficient Frontier, Black-Litterman). | [GitHub](https://github.com/robertmartin8/PyPortfolioOpt) |
+| **QuantLib** 🧮 | Financial Modeling | [![Stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers) | Quantitative finance library for yield curves, fixed income, and risk. | [GitHub](https://github.com/lballabio/QuantLib) |
+| **Riskfolio-Lib** 📊 | Risk Management | [![Stars](https://img.shields.io/github/stars/dcajasn/Riskfolio-Lib?style=social&color=white)](https://github.com/dcajasn/Riskfolio-Lib/stargazers) | Quantitative portfolio optimization and asset allocation in Python. | [GitHub](https://github.com/dcajasn/Riskfolio-Lib) |
+| **SuiteCRM** 🤝 | Deal Flow CRM | [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) | Enterprise open-source CRM for deal tracking and relationship management. | [GitHub](https://github.com/salesagility/SuiteCRM) |
+| **EspoCRM** 🎯 | Deal Sourcing CRM | [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | Flexible CRM application for deal pipelines and LP relationships. | [GitHub](https://github.com/espocrm/espocrm) |
+| **Beancount** 🧮 | Double-Entry Accounting | [![Stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers) | Command-line text-based double-entry ledger tool. | [GitHub](https://github.com/beancount/beancount) |
+| **GnuCash** 💵 | Accounting Software | [![Stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers) | Personal and small business financial accounting software. | [GitHub](https://github.com/Gnucash/gnucash) |
+| **Ledger** 📖 | Ledger Accounting | [![Stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers) | Powerful command-line double-entry accounting system. | [GitHub](https://github.com/ledger/ledger) |
+| **Apache Fineract** 🏛️ | Financial Core | [![Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core banking and financial services infrastructure platform. | [GitHub](https://github.com/apache/fineract) |
+| **Open-Cap-Format (OCF)** 📜 | Cap Table Schema | [![Stars](https://img.shields.io/github/stars/Open-Cap-Table-Coalition/Open-Cap-Format-OCF?style=social&color=white)](https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/stargazers) | Standardized schema for capitalization tables and equity management. | [GitHub](https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF) |
+| **Portfolio by Hemrock** 💼 | PE/VC Platform | [![Stars](https://img.shields.io/github/stars/tdavidson/reporting?style=social&color=white)](https://github.com/tdavidson/reporting/stargazers) | Open-source investment operations and reporting system. | [GitHub](https://github.com/tdavidson/reporting) |
+| **OpenCap** 📜 | Cap Table Platform | [![Stars](https://img.shields.io/github/stars/Open-Cap-Stack/opencap?style=social&color=white)](https://github.com/Open-Cap-Stack/opencap/stargazers) | Open-source cap table and equity management application stack. | [GitHub](https://github.com/Open-Cap-Stack/opencap) |
+| **PE Management Platform** 🏛️ | PE Ops Platform | [![Stars](https://img.shields.io/github/stars/ridoluc/PE_Management_Platform?style=social&color=white)](https://github.com/ridoluc/PE_Management_Platform/stargazers) | Proof-of-concept private equity portfolio management portal. | [GitHub](https://github.com/ridoluc/PE_Management_Platform) |
+
+---
+
+## 💻 Table of Contents 📖
 
 * [Overview](#overview)
-
-* [SaaS/Hosted Platforms](#saashosted-platforms)
+* [Market Size & Industry Dynamics](#market-size--industry-dynamics)
+* [SaaS / Commercial Hosted Platforms](#saas--commercial-hosted-platforms)
+* [Open-Source Ecosystem & Tools](#open-source-ecosystem--tools)
 
 
 
@@ -4919,3 +4978,23 @@ Ollama
 
 
 ---
+
+
+
+## 📈 Star History 🌟
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Alternative-Investment-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Alternative-Investment-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community 🙏
+
+If you found this curated ecosystem list helpful for your alternative investment fund operations, financial engineering, or open-source research, please consider supporting the project:
+
+* 🌟 **Star this repository** to help others discover it!
+* 🔀 **Fork it** to customize it for your firm or portfolio needs.
+* 📢 **Share it** with fellow GPs, LPs, investment engineers, and fintech builders.
+* ☕ **Buy me a coffee / Sponsor:** Support ongoing open-source curation and development on my [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+Thank you for being part of the open investment technology community! 🚀
+
